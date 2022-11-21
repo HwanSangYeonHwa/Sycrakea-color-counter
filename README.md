@@ -10,6 +10,9 @@
  - `오버레이 모드` 버튼을 통한 오버레이 활성화
  - 단축키를 통한 숫자 증가
  - 단축키를 통한 오버레이 비활성화 및 프로그램 종료
+ 
+## 다운로드
+https://github.com/HwanSangYeonHwa/SycrakeaColorCounter/releases/latest
 
 ## 실행
 > 파일 확장자를 제외한 파일 이름은 변경해도 무관합니다.
@@ -23,7 +26,7 @@
  - `ALT + A` 빨강 숫자 증가
  - `ALT + S` 파랑 숫자 증가
  - `ALT + D` 노랑 숫자 증가
- - `ALT + S` 하양 숫자 증가
+ - `ALT + F` 하양 숫자 증가
  - `ALT + O` 오버레이 비활성화
  - `ALT + Q` 프로그램 종료
 
