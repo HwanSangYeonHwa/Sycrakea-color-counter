@@ -14,7 +14,7 @@
 ## 실행
 > 파일 확장자를 제외한 파일 이름은 변경해도 무관합니다.
 
-`SycrakeaColorCounter` 또는 `SycrakeaColorCounter.exe`를 실행합니다.
+`SycrakeaColorCounter` 또는 `SycrakeaColorCounter.exe`를 `관리자 권한`으로실행합니다.
 
 ## 단축키
 > 단축키는 오버레이 모드가 아니더라도 작동합니다!
