@@ -27,6 +27,7 @@ https://github.com/HwanSangYeonHwa/SycrakeaColorCounter/releases/latest
  - `ALT + S` 파랑 숫자 증가
  - `ALT + D` 노랑 숫자 증가
  - `ALT + F` 하양 숫자 증가
+ - `ALT + E` 숫자 
  - `ALT + O` 오버레이 비활성화
  - `ALT + Q` 프로그램 종료
 
